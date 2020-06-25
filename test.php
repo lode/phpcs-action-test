@@ -17,3 +17,7 @@ function baz() {
 
 $array = ['baf'];
 $array = array('bat');
+
+function fizz() {
+  echo 'buzz';
+}
