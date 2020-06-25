@@ -1,4 +1,4 @@
-name: "CI"
+name: "CI for phpcs"
 
 on:
   pull_request:
