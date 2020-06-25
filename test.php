@@ -19,5 +19,6 @@ $array = ['baf'];
 $array = array('bat');
 
 function fizz() {
-  echo 'Chocolate bar soufflé danish chocolate pie. Chocolate danish powder biscuit jelly beans cake wafer halvah caramels. Cookie lollipop carrot cake cheesecake cake candy canes. Ice cream cookie gummi bears danish biscuit carrot cake jelly beans cupcake. Carrot cake pudding liquorice dragée wafer chocolate gummies. Oat cake danish dragée apple pie. Sweet sweet roll chocolate gummi bears sweet roll caramels. Toffee candy canes jelly cake jujubes wafer. Tiramisu sugar plum jujubes powder chocolate. Bear claw ice cream soufflé. Chupa chups lollipop candy lollipop gummi bears sugar plum. Apple pie toffee jelly-o soufflé gingerbread candy icing fruitcake tart. Oat cake gummies dragée.';
+  // Chocolate bar soufflé danish chocolate pie. Chocolate danish powder biscuit jelly beans cake wafer halvah caramels. Cookie lollipop carrot cake cheesecake cake candy canes. Ice cream cookie gummi bears danish biscuit carrot cake jelly beans cupcake. Carrot cake pudding liquorice dragée wafer chocolate gummies. Oat cake danish dragée apple pie. Sweet sweet roll chocolate gummi bears sweet roll caramels. Toffee candy canes jelly cake jujubes wafer. Tiramisu sugar plum jujubes powder chocolate. Bear claw ice cream soufflé. Chupa chups lollipop candy lollipop gummi bears sugar plum. Apple pie toffee jelly-o soufflé gingerbread candy icing fruitcake tart. Oat cake gummies dragée.
+  echo 'buzz';
 }
