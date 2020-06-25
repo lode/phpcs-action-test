@@ -14,3 +14,6 @@ function baz() {
   echo 'world';
 	echo "!";
 }
+
+$array = ['baf'];
+$array = array('bat');
